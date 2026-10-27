@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and repository release."
+title: "Cell-source-attributed candidate ferroptosis-lysosomal transcriptional program in sepsis-associated myocardial injury"
+type: software
+version: "11.3.0"
+date-released: "2026-10-27"
+license: MIT
+repository-code: "https://github.com/luxicfy/sepsis-myocardium-ferroptosis-lysosome"
+authors:
+  - family-names: Lu
+    given-names: Yilin
+    email: lyl924x@163.com
+  - family-names: Liu
+    given-names: Liang
+  - family-names: An
+    given-names: Yaqing
+  - family-names: Meng
+    given-names: Na
+  - family-names: Yuan
+    given-names: Lin
+  - family-names: Gong
+    given-names: Yu
+  - family-names: Li
+    given-names: Jingyan
+  - family-names: Yao
+    given-names: Dongqi
+  - family-names: Gao
+    given-names: Hengbo
+  - family-names: Tian
+    given-names: Yingping
+    email: tianyingping-jzh@163.com
+keywords:
+  - sepsis
+  - myocardial injury
+  - ferroptosis
+  - lysosome
+  - single-cell transcriptomics
