@@ -1,5 +1,8 @@
 # Cell-source-attributed ferroptosis-lysosomal program in sepsis-associated myocardial injury
 
+Public repository:
+[luxicfy/sepsis-myocardium-ferroptosis-lysosome](https://github.com/luxicfy/sepsis-myocardium-ferroptosis-lysosome)
+
 Analysis code for the manuscript:
 
 > Cell-source-attributed candidate ferroptosis-lysosomal transcriptional program in

@@ -1,0 +1,26 @@
+{
+  "title": "Cell-source-attributed candidate ferroptosis-lysosomal transcriptional program in sepsis-associated myocardial injury",
+  "description": "Analysis code for a hypothesis-generating integrative multi-omic and single-cell analysis of sepsis-associated myocardial injury.",
+  "creators": [
+    {"name": "Lu, Yilin"},
+    {"name": "Liu, Liang"},
+    {"name": "An, Yaqing"},
+    {"name": "Meng, Na"},
+    {"name": "Yuan, Lin"},
+    {"name": "Gong, Yu"},
+    {"name": "Li, Jingyan"},
+    {"name": "Yao, Dongqi"},
+    {"name": "Gao, Hengbo"},
+    {"name": "Tian, Yingping"}
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sepsis",
+    "myocardial injury",
+    "ferroptosis",
+    "lysosome",
+    "single-cell transcriptomics"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}

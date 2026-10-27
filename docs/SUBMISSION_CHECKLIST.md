@@ -12,7 +12,7 @@
 - [x] MIT license selected for code
 - [x] Citation metadata prepared
 - [x] Set the public repository URL in `CITATION.cff`
-- [ ] Create and push the public GitHub repository
+- [x] Create and push the public GitHub repository
 - [ ] Record the final commit hash and release tag
 - [ ] Insert the public repository URL in the manuscript, Title Page metadata, upload
       guide, and Code Availability statement
